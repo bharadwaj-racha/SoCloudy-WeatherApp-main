@@ -31,16 +31,6 @@ This project is about building a web application to show a weather forecast usin
 <br/>
 
 
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venketesh-rushi-423722236/)
-
-© 2022 Venketesh Rushi
-
-
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
