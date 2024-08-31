@@ -1,6 +1,5 @@
 <h1 align="center">SoCloudy :- Weather App</h1> 
 
-![weather app cover](https://venketeshrushi.github.io/Portfolio/static/media/weatherapp1.4c8bcc30501a4659cb62.png)
 
 <h2 align="center">Web application to show the current and upcoming week weather forecast.</h2>    
 <br />
